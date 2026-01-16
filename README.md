@@ -1,4 +1,16 @@
+
 Power BI Data Analytics Project
+
+
+<img width="1920" height="1080" alt="powerBi pic -1" src="https://github.com/user-attachments/assets/51944a0f-87a5-444c-b3b0-7f44af661212" />
+
+<img width="1920" height="1080" alt="powerBi pic- 2" src="https://github.com/user-attachments/assets/3a379ba5-c8d3-47bd-851d-4960928c0266" />
+
+<img width="1920" height="1080" alt="pwerBi pic-3" src="https://github.com/user-attachments/assets/6df9e239-53b9-46a0-a9a9-254c938d4a41" />
+
+
+
+
 
 Project Overview
 
@@ -110,11 +122,4 @@ Published reports to Power BI Service
 Optimized dashboards for usability and clarity
 
 Ensured easy navigation and interaction
-
-<img width="1920" height="1080" alt="powerBi pic -1" src="https://github.com/user-attachments/assets/51944a0f-87a5-444c-b3b0-7f44af661212" />
-
-<img width="1920" height="1080" alt="powerBi pic- 2" src="https://github.com/user-attachments/assets/3a379ba5-c8d3-47bd-851d-4960928c0266" />
-
-<img width="1920" height="1080" alt="pwerBi pic-3" src="https://github.com/user-attachments/assets/6df9e239-53b9-46a0-a9a9-254c938d4a41" />
-
 
